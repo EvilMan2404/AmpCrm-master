@@ -1,0 +1,14 @@
+.table-info th,
+.table-info td,
+.table-info thead th,
+.table-info tbody + tbody {
+  border-color: #2a3746 !important;
+}
+
+.table-info th,
+.table-info td,
+.table-info thead th,
+.table-info tbody + tbody {
+  background-color: #2a3746 !important;
+}
+
